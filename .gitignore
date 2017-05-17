@@ -1,0 +1,5 @@
+notebook/treetagger
+.vagrant
+notebook/data/output.csv
+notebook/.ipynb_checkpoints
+notebook/__pycache__
