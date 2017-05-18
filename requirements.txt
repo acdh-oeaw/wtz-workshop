@@ -4,7 +4,6 @@ bleach==2.0.0
 cymem==1.31.2
 Cython==0.25.2
 cytoolz==0.8.2
-de-core-news-md==1.0.0
 decorator==4.0.11
 dill==0.2.6
 entrypoints==0.2.2
