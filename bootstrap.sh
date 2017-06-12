@@ -6,4 +6,4 @@ apt-get install -y python3 libxml2-dev libxslt1-dev python3-dev build-essential
 apt-get install -y python3-pip
 pip3 install virtualenv
 su - vagrant -c "mkdir .venvs && virtualenv -p python3 .venvs/myenv"
-su - vagrant -c "source .venvs/myenv/bin/activate && pip3 install -r requirements.txt && python -m spacy download de"
+su - vagrant -c "source .venvs/myenv/bin/activate && pip3 install -r /vagrant/requirements.txt && python -m spacy download de"
