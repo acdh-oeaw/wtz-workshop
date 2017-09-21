@@ -1,10 +1,10 @@
 About
 -----
 
-This repository is for the WTZ workshop on text processing on 18-5-2017.
+This repository contains notebooks showing basic text processing.
 It contains two things:
 
-* A Jupyter notebook that shows basic text processing with Python
+* A Jupyter notebooks that show basic text processing with Python
 * And a Vagrant file that automatically installs and launches the Jupyter notebook
 
 Install the Vagrant box
