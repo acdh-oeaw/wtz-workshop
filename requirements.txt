@@ -20,7 +20,7 @@ jupyter==1.0.0
 jupyter-client==5.0.1
 jupyter-console==5.1.0
 jupyter-core==4.3.0
-lxml==3.7.3
+lxml
 MarkupSafe==1.0
 mistune==0.7.4
 murmurhash==0.26.4
@@ -43,11 +43,12 @@ pyparsing==2.2.0
 python-dateutil==2.6.0
 pyzmq==16.0.2
 qtconsole==4.3.0
+rdflib
 regex==2017.4.5
 requests==2.14.2
 simplegeneric==0.8.1
 six==1.10.0
-spacy==1.8.2
+spacy
 termcolor==1.1.0
 terminado==0.6
 testpath==0.3
